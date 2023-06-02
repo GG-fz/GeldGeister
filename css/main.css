@@ -1163,13 +1163,7 @@ main {
   .btn:hover {
     background: linear-gradient(to right, #0aceb1 0%, #1e72bc 100%);
   }
-  .btn-new {
-    background: linear-gradient(to right, #d642f7 0%, #3ea8eb 100%);
-    color: #ffffff;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
+  
   .newsletter {
     background-color: #ffffff;
     padding: 20px;
